@@ -1,0 +1,8 @@
+Input:  weight =  [1, 2, 3] value =  [60, 100, 120]
+Target Weight: 5
+Number of rows in each processor: 5
+Number of processors: 6
+Number of columns used per processor: 1
+2D Matrix Size: 5  x ( 6  x  1 ) =  5  x  6
+
+Knapsack Count: 220
