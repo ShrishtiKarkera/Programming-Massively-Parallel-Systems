@@ -16,4 +16,4 @@ module load python
 export I_MPI_PMI_LIBRARY=/opt/software/slurm/lib64/libpmi.so
 srun pip install numpy mpi4py > /dev/null 2>&1
 
-srun -n 300 python corrected_pknapsack.py
+srun -n 300 python parallel_knapsack.py
